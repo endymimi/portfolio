@@ -1,5 +1,5 @@
 import { FaLinkedinIn, FaGithub } from 'react-icons/fa';
-import endy from "../assets/endyport.jpeg";
+import endy from "../assets/endyportport.jpeg";
 
 const Hero = () => (
   <section className="bg-[#0A0A0A]  text-white py-20 px-6 md:px-16 flex flex-col md:flex-row items-center justify-between">
@@ -48,7 +48,7 @@ const Hero = () => (
       <img
         src={endy}
         alt="Endurance Ighobue"
-        className="rounded-xl object-cover w-[400px] h-auto"
+        className="rounded-[50px] "
       />
     </div>
   </section>

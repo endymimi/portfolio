@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link, NavLink, Outlet } from "react-router-dom";
 import { FaLinkedinIn, FaGithub, FaTwitter, FaInstagram, } from 'react-icons/fa';
-import endythree from "../assets/endythree.jpeg";
+import endythree from "../assets/endythreethree.jpeg";
 import circle from "../assets/circle.svg";
 
 

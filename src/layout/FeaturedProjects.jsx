@@ -1,7 +1,7 @@
 import React from 'react'
-import imageOne from "../assets/desktop-design (8).jpg";
-import imageTwo from '../assets/productpageo.png';
-import imageThree from "../assets/desktop-thank-you-stated.jpg";
+import imageOne from "../assets/endydesktop.jpg";
+import imageTwo from '../assets/endyproductdesign.png';
+import imageThree from "../assets/endythankyou.jpg";
 import github from "../assets/github.svg.png";
 
 const FeaturedProjects = () => {

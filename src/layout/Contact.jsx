@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaLinkedinIn, FaGithub, FaTwitter, FaInstagram, } from 'react-icons/fa';
-import endytwo from "../assets/endytwo.jpeg";
+import endytwo from "../assets/endytwotwo.jpeg";
 
 const Contact = () => (
   <section id="contact" className="p-10 bg-[#0A0A0A] md:flex  justify-between border-t border-[#C7C7C7] ">
